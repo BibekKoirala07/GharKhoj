@@ -34,7 +34,7 @@ This project is a comprehensive real estate platform that features a real-time c
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/suss58/Gharkhoji--Real-estate-web-application-with-real-time-chat-system-and-house-price-prediction-system.git
+git clone https://github.com/BibekKoirala07/Gharkhoji--Real-estate-web-application-with-real-time-chat-system-and-house-price-prediction-system.git
 ```
 
 ### Install Dependencies
